@@ -1,0 +1,70 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\aldys\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Aldana\\Escritorio\\Facultad 2022\\PAV I\\Práctico\\02- Clase 02 - 10-08-2022\\Actividad 2 - Paso a Paso - Login sin base de datos\\actividad_login_sin_basedatos\\BugTracker\\BugTracker.csproj",
+      "projectName": "BugTracker",
+      "projectPath": "D:\\Aldana\\Escritorio\\Facultad 2022\\PAV I\\Práctico\\02- Clase 02 - 10-08-2022\\Actividad 2 - Paso a Paso - Login sin base de datos\\actividad_login_sin_basedatos\\BugTracker\\BugTracker.csproj",
+      "packagesPath": "C:\\Users\\aldys\\.nuget\\packages\\",
+      "outputPath": "D:\\Aldana\\Escritorio\\Facultad 2022\\PAV I\\Práctico\\02- Clase 02 - 10-08-2022\\Actividad 2 - Paso a Paso - Login sin base de datos\\actividad_login_sin_basedatos\\BugTracker\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\aldys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
